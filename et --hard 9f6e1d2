@@ -1,0 +1,167 @@
+[33m719a63e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mOPKR_C2[m[33m, [m[1;31morigin/OPKR_C2_APP[m[33m, [m[1;31morigin/OPKR_C2[m[33m, [m[1;32mOPKR_C2_APP[m[33m)[m APP
+[33ma550b57[m APP
+[33m45bf7ac[m APP
+[33m6ca54fd[m APP
+[33mc8b48ef[m APP
+[33md2e23a4[m APP
+[33m0c48062[m APP
+[33m4efcc26[m APP
+[33m51efe6c[m APP
+[33mdbff44e[m APP
+[33m1bdf9de[m APP
+[33m452bf8a[m APP
+[33mde1f1c1[m APP
+[33mf1ce48d[m APP
+[33m1c5d72c[m 주기적 통신방식 수정
+[33m9776812[m 통신방법 수정 tcp방식
+[33m18c0aeb[m Fix or update something in main.cc
+[33m8daab91[m[33m ([m[1;31mupstream/OPKR_C2_test[m[33m, [m[1;31mupstream/OPKR_C2[m[33m)[m fix
+[33mdecbc1e[m test
+[33m6dc6bb0[m Merge branch 'OPKR_C2' into OPKR_C2_test
+[33mea2ce0a[m vision only
+[33me1783f3[m NEXO gear shifter
+[33m1cf2b05[m added k5 hev dl3
+[33m04134af[m better prebuilt fix
+[33m919e218[m 50hz radar time step, default long tune
+[33mce85bb8[m bug fix
+[33m4574a59[m observe comma safety rule
+[33m3a6e1e7[m 500msec update
+[33m082e93e[m fix vision slowdown for mph
+[33m1ae3547[m steer torque
+[33me6bfe50[m initial set speed fix
+[33m633f59a[m lateral unrelated to gear stat
+[33m8da3cae[m missed
+[33mf563ad2[m fixed?
+[33m5ed5d6f[m Merge branch 'OPKR_C2' into OPKR_C2_test
+[33m08a3fba[m missing SANTAFE_HEV
+[33m5af226b[m op steer torque
+[33m1d2d8f2[m more visible
+[33mbdcb783[m steering torque
+[33mae052a1[m working well unlike intended originally
+[33mbd4e410[m Merge branch 'pr/41' into OPKR_C2_test
+[33mbcb79f6[m opkr
+[33m788884b[m opkr
+[33mb8ccf86[m 2015-16 Genesis min steer speed update
+[33m66f2f64[m opkr
+[33m0081590[m opkr
+[33mcd5fc19[m opkr
+[33m698aaed[m opkr
+[33mbc921fc[m opkr
+[33mbb091a3[m opkr
+[33m1f8a0b2[m opkr
+[33mb00181d[m opkr
+[33m74c3e3b[m opkr
+[33m5d4f60b[m opkr
+[33m809915f[m opkr
+[33m4aae6b1[m opkr
+[33m7921f5e[m opkr
+[33mc5d639c[m opkr
+[33mfe0c497[m Revert "opkr"
+[33m1f4caf3[m opkr
+[33m00faa0c[m opkr
+[33m9b9ae7d[m opkr
+[33m563b52f[m Revert "opkr"
+[33m8193f1f[m opkr
+[33ma7a5c8a[m opkr
+[33m4f38f26[m opkr
+[33mecd8460[m opkr
+[33m28ffb64[m opkr
+[33ma8d4bfe[m opkr
+[33m023f4d0[m opkr
+[33m3447724[m opkr
+[33mbc0bedd[m opkr
+[33m05343ed[m opkr
+[33m81f0bce[m opkr
+[33m4ec884e[m opkr
+[33m2cb804d[m opkr
+[33m904ac6b[m opkr
+[33mbbd3994[m opkr
+[33m65ab970[m opkr
+[33mc893b01[m opkr
+[33m3e0de0d[m opkr
+[33m25d6948[m opkr
+[33m546c057[m opkr
+[33mbf8599c[m opkr
+[33m17480f2[m opkr
+[33m39f3b02[m opkr
+[33me665632[m opkr
+[33m0597b08[m opkr
+[33m2a7c882[m opkr
+[33m1396934[m opkr
+[33m3012119[m opkr
+[33mc57940f[m opkr
+[33m95a6c0f[m opkr
+[33m31a41aa[m opkr
+[33m6d29a23[m opkr
+[33m4e545ee[m opkr
+[33m67b100f[m opkr
+[33m703caa9[m opkr
+[33m7508220[m opkr
+[33m394c278[m opkr
+[33m1d55cbe[m opkr
+[33mb8ec9c7[m opkr
+[33m0cdc034[m opkr
+[33md8f9b76[m opkr
+[33md15a4ad[m opkr
+[33m86b2cc2[m opkr
+[33m48dfc10[m opkr
+[33mde13850[m opkr
+[33m79adb88[m opkr
+[33m847ab56[m opkr
+[33mfc7ea9f[m opkr
+[33m37eab97[m opkr
+[33m5cda85b[m opkr
+[33mb8d78b8[m opkr
+[33md7e6294[m opkr
+[33mef0e692[m opkr
+[33m820bea4[m opkr
+[33mbec85da[m opkr
+[33m078f9e9[m opkr
+[33m3c0e0ef[m opkr
+[33m74f78b7[m opkr
+[33m064c3df[m opkr
+[33m3c672ca[m opkr
+[33mf6dcb4b[m opkr
+[33mca14e76[m opkr
+[33m9ba026d[m opkr
+[33mdec4013[m opkr
+[33m7d771c7[m opkr
+[33m518ed9f[m opkr
+[33m97bd710[m opkr
+[33mefbcd22[m opkr
+[33m2147888[m opkr
+[33m3ae28a6[m opkr
+[33m0da26de[m opkr
+[33m099e6b9[m opkr
+[33m67e15e3[m opkr
+[33mdfd63d0[m opkr
+[33me5e49d9[m opkr
+[33maf967e7[m opkr
+[33m5d6ac70[m opkr
+[33mb034361[m opkr
+[33m6b640fd[m opkr
+[33m418a7ea[m opkr
+[33mbb97fca[m opkr
+[33mafad948[m opkr
+[33mcc5912e[m opkr
+[33m3fab05b[m opkr
+[33mbc01cea[m opkr
+[33m25c7871[m opkr
+[33madd2ca7[m opkr
+[33m68b6e6b[m opkr
+[33m9484717[m opkr
+[33m60fda25[m opkr
+[33m1570e82[m opkr
+[33mbd1e474[m opkr
+[33me0a729b[m Revert "opkr"
+[33m6ee3291[m opkr
+[33mdc5ffa4[m opkr
+[33m5dad22a[m opkr
+[33mea53d83[m opkr
+[33ma4a4817[m opkr
+[33m10c5ef4[m Merge branch 'OPKR_test' into OPKR_test_waze
+[33mb8de6c9[m opkr
+[33ma9e2418[m opkr
+[33m8a8b389[m opkr
+[33m1582eae[m opkr
+[33m253406a[m opkr
